@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteCodeBuilder", "ByteCodeBuilder\ByteCodeBuilder.csproj", "{5BD7D758-C7CF-4B63-92D2-82367E86973A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD7D758-C7CF-4B63-92D2-82367E86973A}.Debug|x86.ActiveCfg = Debug|x86
+		{5BD7D758-C7CF-4B63-92D2-82367E86973A}.Debug|x86.Build.0 = Debug|x86
+		{5BD7D758-C7CF-4B63-92D2-82367E86973A}.Release|x86.ActiveCfg = Release|x86
+		{5BD7D758-C7CF-4B63-92D2-82367E86973A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
